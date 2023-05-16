@@ -2,7 +2,6 @@
 This is the python course from scratch
 
 
-
 ## Python Basic Course:
 ### Master the Fundamentals of Python Programming!
 
