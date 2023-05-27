@@ -10,6 +10,5 @@ Throughout the course, you will be introduced to the fundamental concepts of Pyt
 
 Our experienced instructors will guide you step-by-step, explaining concepts in a clear and concise manner. You'll learn the syntax and structure of Python, understand how to use built-in functions, and explore the power of libraries that extend the functionality of the language.        
 
-
 By the end of the course, you'll have a solid grasp of Python's core concepts and be able to write simple programs independently. Whether you want to automate tasks, manipulate data, or pursue a career in programming, this Python Basic Course will give you the confidence to take the next steps in your coding journey.    
 
